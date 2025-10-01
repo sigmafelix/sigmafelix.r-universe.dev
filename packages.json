@@ -1,0 +1,10 @@
+[
+    {
+        "package": "tidycensuskr",
+        "url": "https://github.com/sigmafelix/tidycensuskr"
+    },
+    {
+        "package": "tidycensussfkr",
+        "url": "https://github.com/sigmafelix/tidycensussfkr"
+    }
+]
