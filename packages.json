@@ -6,5 +6,9 @@
     {
         "package": "tidycensuskr.sf",
         "url": "https://github.com/sigmafelix/tidycensuskr.sf"
+    },
+    {
+        "package": "gopher",
+        "url": "https://github.com/sigmafelix/gopher"
     }
 ]
