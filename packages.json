@@ -8,6 +8,10 @@
         "url": "https://github.com/sigmafelix/tidycensuskr.sf"
     },
     {
+        "package": "autoSTK",
+        "url": "https://github.com/sigmafelix/autoSTK"
+    },
+    {
         "package": "gopher",
         "url": "https://github.com/sigmafelix/gopher"
     }
